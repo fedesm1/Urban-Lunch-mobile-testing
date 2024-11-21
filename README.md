@@ -1,7 +1,7 @@
-# Pruebas para la aplicacion movil de Urban Lunch
+# Pruebas para la aplicación móvil de Urban Lunch
 # Descripción
 
-En este proyecto, se prueba la aplicación móvil Urban Lunch mediante la emulación de un dispositivo Android con la herramienta de Android Studio, se ejecutan listas de comprobación e infomes de errores en Jira.
+En este proyecto, se prueba la aplicación móvil Urban Lunch mediante la emulación con la herramienta de Android Studio, se ejecutan listas de comprobación e infomes de errores en Jira.
 
 Urban Lunch es una aplicación móvil para personalizar comidas de negocios que permite:
 
